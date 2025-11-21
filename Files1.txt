@@ -1,2 +1,4 @@
 HEN
-MEN
+MENMAT
+SAT
+CAT
